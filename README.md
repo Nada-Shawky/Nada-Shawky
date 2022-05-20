@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nada-Shawky
+- 👋 Hi, I’m Nada-Shawky
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning react
 
