@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nada-Shawky
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
